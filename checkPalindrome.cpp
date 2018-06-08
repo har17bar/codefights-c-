@@ -1,3 +1,4 @@
+/*Given the string, check if it is a palindrome.*/
 #include <iostream>
 #include <string>
 
